@@ -40,3 +40,4 @@ chage_tuple=list(this_tuple) #(先將原先的tuple轉換成list)
 chage_tuple[0:]=[60,71,78,96,74]
 this_tuple=tuple(chage_tuple) #再將被改正的list轉回tuple
 print(this_tuple)
+

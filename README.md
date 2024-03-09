@@ -5,7 +5,7 @@
 
 # 課程筆記區
 
-# 語法自主學習
+# 語法自主學習區
 [1. 自主學習：變數與資料型態](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/datatype_note.py)  
 [2. 自主學習：數字、字串的基本運算](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/number-string_note.py)  
 [3. 有序列表的基本運算 - List、Tuple](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/list-tuple.py)

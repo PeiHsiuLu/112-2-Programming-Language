@@ -6,7 +6,10 @@
 # 課程筆記區
 
 # 語法自主學習
-[0309自主學習：變數與資料型態](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/variable-and-datatype_language_note.py)
+[1. 自主學習：變數與資料型態](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/datatype_note.py)  
+[2. 自主學習：數字、字串的基本運算](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/number-string_note.py)  
+
+
 
 
 # 作業連結區

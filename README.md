@@ -8,7 +8,7 @@
 # 語法自主學習區
 [1. 自主學習：變數與資料型態](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/datatype_note.py)  
 [2. 自主學習：數字、字串的基本運算](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/number-string_note.py)  
-[3. 自主學習：有序列表的基本運算 - List、Tuple](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/list-tuple.py)
+[3. 自主學習：有序列表的基本運算 - List、Tuple](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/list-tuple.py)  
 [4. 自主學習：集合、字典的基本運算 - Set、Dictionary](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/set-dict.py)
 
 

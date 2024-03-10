@@ -15,7 +15,7 @@
 
 
 # 作業連結區
-[HW1：簡易利用CSV檔作統計分析：交集、差集、聯集](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/HW1.ipynb)
+[HW1：利用Pandas讀取CSV檔進行資料分析](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/HW1-112%E5%B9%B4%E8%88%87102%E5%B9%B4%E4%BA%8C%E9%A1%9E%E7%B5%84%E5%88%86%E7%A7%91%E6%8E%92%E8%A1%8C%E5%89%8D10%E5%90%8D%E6%AF%94%E8%BC%83_%E9%87%8D%E5%81%9A.py)
 
 # 專題連結區   
 

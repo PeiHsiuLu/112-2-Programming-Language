@@ -34,5 +34,6 @@ print("\n交集結果："+str(second_column_set_df1&second_column_set_df2))
 
 #輸出差集結果：在112年將102年的熱門校系取而代之的新校系
 print("\n差集結果(112年取而代之的新熱門校系)："+str(second_column_set_df2 - second_column_set_df1))
+
 #輸出差集結果：在112年被取而代之的校系
 print("\n差集結果(102年所有被取而代之的校系："+str(second_column_set_df1 - second_column_set_df2))

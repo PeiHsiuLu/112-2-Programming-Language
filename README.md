@@ -11,7 +11,8 @@
 [3. 自主學習：有序列表的基本運算 - List、Tuple](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/list-tuple.py)  
 [4. 自主學習：集合、字典的基本運算 - Set、Dictionary](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/set-dict.py)  
 [5. 自主學習：流程控制：if 判斷式](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/if.py)  
-[6. 自主學習：流程控制：迴圈基礎，while 迴圈、for 迴圈 ](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/loop.py)
+[6. 自主學習：流程控制：迴圈基礎，while 迴圈、for 迴圈 ](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/loop.py)  
+[7. 自主學習：流程控制：迴圈進階控制，break、continue、else 命令](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/loop-advanved.py)
 
 
 

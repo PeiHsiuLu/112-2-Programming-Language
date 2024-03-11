@@ -6,7 +6,7 @@
 # 課程筆記區
 
 # 語法自主學習區
-這是我自主學習的紀錄，期望可以透過紀錄自己學習python的過程，讓自己變得更好！
+這是我自主學習的紀錄，期望可以透過紀錄自己學習python的過程，讓自己變得更好！  
 [1. 自主學習：變數與資料型態](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/datatype_note.py)  
 [2. 自主學習：數字、字串的基本運算](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/number-string_note.py)  
 [3. 自主學習：有序列表的基本運算 - List、Tuple](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/list-tuple.py)  

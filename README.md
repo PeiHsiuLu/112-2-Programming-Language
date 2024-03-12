@@ -9,17 +9,17 @@
 這是我自主學習的紀錄，期望可以透過紀錄自己學習python的過程，讓自己變得更好！ 
 
   
-[1. 自主學習：變數與資料型態](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/datatype_note.py)  
-[2. 自主學習：數字、字串的基本運算](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/number-string_note.py)  
-[3. 自主學習：有序列表的基本運算 - List、Tuple](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/list-tuple.py)  
-[4. 自主學習：集合、字典的基本運算 - Set、Dictionary](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/set-dict.py)  
-[5. 自主學習：流程控制：if 判斷式](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/if.py)  
-[6. 自主學習：流程控制：迴圈基礎，while 迴圈、for 迴圈 ](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/loop.py)  
-[7. 自主學習：流程控制：迴圈進階控制，break、continue、else 命令](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/loop-advanved.py)  
-[8. 自主學習：函式基礎：定義並呼叫函式](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/function.py)  
-[9. 自主學習：函式參數詳解：參數預設值、名稱對應、任意長度參數](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/function_advanced.py)  
-[10. 自主學習：Module 模組的載入與使用](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/module.py)  
-[11. 自主學習：Package 封包的設計與使用](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/main_package_practice.py)
+[1. 自主學習：變數與資料型態 2024/03/09](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/datatype_note.py)  
+[2. 自主學習：數字、字串的基本運算 2024/03/09](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/number-string_note.py)  
+[3. 自主學習：有序列表的基本運算 - List、Tuple 2024/03/09](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/list-tuple.py)  
+[4. 自主學習：集合、字典的基本運算 - Set、Dictionary 2024/03/09](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/set-dict.py)  
+[5. 自主學習：流程控制：if 判斷式 2024/03/10](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/if.py)  
+[6. 自主學習：流程控制：迴圈基礎，while 迴圈、for 迴圈 2024/03/10](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/loop.py)  
+[7. 自主學習：流程控制：迴圈進階控制，break、continue、else 命令 2024/03/11](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/loop-advanved.py)  
+[8. 自主學習：函式基礎：定義並呼叫函式 2024/03/11](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/function.py)  
+[9. 自主學習：函式參數詳解：參數預設值、名稱對應、任意長度參數 2024/03/12](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/function_advanced.py)  
+[10. 自主學習：Module 模組的載入與使用 2024/03/12](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/module.py)  
+[11. 自主學習：Package 封包的設計與使用 2024/03/12](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/main_package_practice.py)
 
 
 

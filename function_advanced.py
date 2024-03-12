@@ -75,5 +75,6 @@ def average_(*numbers):
 
 value = average_(52,49,36,78,92)
 print(value)
-    
+
+
         

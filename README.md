@@ -19,7 +19,8 @@
 [8. 自主學習：函式基礎：定義並呼叫函式 2024/03/11](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/function.py)  
 [9. 自主學習：函式參數詳解：參數預設值、名稱對應、任意長度參數 2024/03/12](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/function_advanced.py)  
 [10. 自主學習：Module 模組的載入與使用 2024/03/12](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/module.py)  
-[11. 自主學習：Package 封包的設計與使用 2024/03/12](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/main_package_practice.py)
+[11. 自主學習：Package 封包的設計與使用 2024/03/12](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/main_package_practice.py)  
+[12. 自主學習：文字檔案的讀取和儲存 2024/03/15](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/file.py)
 
 
 

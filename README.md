@@ -35,6 +35,6 @@
 # Markdown 語法說明
 Markdown 語法說明：https://markdown.tw/
 # python 小專題  
-[1. 師大本部人的三餐選擇器](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/folio/choose_food.py)  
+[1. 師大本部人的三餐選擇器 2024/03/16](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/folio/choose_food.py)  
 
 

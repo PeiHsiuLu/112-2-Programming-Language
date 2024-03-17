@@ -21,7 +21,8 @@
 [10. 自主學習：Module 模組的載入與使用 2024/03/12](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/module.py)  
 [11. 自主學習：Package 封包的設計與使用 2024/03/12](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/main_package_practice.py)  
 [12. 自主學習：文字檔案的讀取和儲存 2024/03/15](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/file.py)  
-[13. 自主學習：亂數與統計模組 2024/03/15](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/random_statistic_module.py)
+[13. 自主學習：亂數與統計模組 2024/03/15](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/random_statistic_module.py)  
+[14. 自主學習：網路連線程式、公開資料串接 2024/03/17](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/internet.py)
 
 
 
@@ -35,6 +36,8 @@
 # Markdown 語法說明
 Markdown 語法說明：https://markdown.tw/
 # python 小專題  
+有時太忙沒有自主學習，就利用20-30分鐘的零星時間做些小專案，訓練手感  
+  
 [1. 師大本部人的三餐選擇器 2024/03/16](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/folio/choose_food.py)  
 
 

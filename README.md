@@ -7,7 +7,7 @@
 
 # 自主學習筆記區
 這是我自主學習的紀錄，期望可以透過紀錄自己學習python的過程，讓自己變得更好！ 
-
+[感謝YT彭彭的課程：Python 入門教學課程](https://www.youtube.com/@cwpeng-course/playlists)
   
 [1. 自主學習：變數與資料型態 2024/03/09](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/datatype_note.py)  
 [2. 自主學習：數字、字串的基本運算 2024/03/09](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/number-string_note.py)  
@@ -24,6 +24,11 @@
 [13. 自主學習：亂數與統計模組 2024/03/15](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/random_statistic_module.py)  
 [14. 自主學習：網路連線程式、公開資料串接 2024/03/17](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/internet.py)  
 [15. 自主學習：類別的定義與使用 - Class Attributes 2024/03/17](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/class.py)  
+[16. 自主學習：實體物件的建立與使用 - 上篇 - 實體屬性 2024/03/19](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/classify-1.py)
+
+
+
+(預計2024/03/31結束自學)
 
 
 
@@ -39,6 +44,9 @@ Markdown 語法說明：https://markdown.tw/
 # python 小專題  
 有時太忙沒有自主學習，就利用20-30分鐘的零星時間做些小專案，訓練手感  
   
-[1. 師大本部人的三餐選擇器 2024/03/16](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/folio/choose_food.py)  
+[1. 師大本部人的三餐選擇器 2024/03/16](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/folio/choose_food.py) 
+
+# python 30 日小專題訓練  
+因為2024/04/01後應該會有很長一段時間不碰 python，所以我決定利用chatgpt設計的 30 道題目每天花20-30分鐘練習
 
 

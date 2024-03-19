@@ -4,14 +4,14 @@ import sys as s #更改別名稱為s
 
 s.path.append("modules")
 #從geometry.py 模組載入使用
-import geometry #在模組的搜尋列表中新增路徑
+import geometry_practtice #在模組的搜尋列表中新增路徑
 
 #算出兩點距離
-result = geometry.distance(1,4,3,8)# 計算兩點距離：(1,3) (4,8)
+result = geometry_practtice.distance(1,4,3,8)# 計算兩點距離：(1,3) (4,8)
 print(result)
 
 #算出斜率
-result = geometry.slope(1,4,3,8)
+result = geometry_practtice.slope(1,4,3,8)
 print(result)
 
 

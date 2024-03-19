@@ -24,7 +24,7 @@
 [13. 自主學習：亂數與統計模組 2024/03/15](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/random_statistic_module.py)  
 [14. 自主學習：網路連線程式、公開資料串接 2024/03/17](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/internet.py)  
 [15. 自主學習：類別的定義與使用 - Class Attributes 2024/03/17](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/class.py)  
-[16. 自主學習：體物件的建立與使用 - 上篇 - 實體屬性 2024/03/19](
+[16. 自主學習：體物件的建立與使用 - 上篇 - 實體屬性 2024/03/19](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/classify-1.py)
 
 
 

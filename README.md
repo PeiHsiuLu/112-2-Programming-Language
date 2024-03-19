@@ -22,7 +22,8 @@
 [11. 自主學習：Package 封包的設計與使用 2024/03/12](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/main_package_practice.py)  
 [12. 自主學習：文字檔案的讀取和儲存 2024/03/15](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/file.py)  
 [13. 自主學習：亂數與統計模組 2024/03/15](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/random_statistic_module.py)  
-[14. 自主學習：網路連線程式、公開資料串接 2024/03/17](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/internet.py)
+[14. 自主學習：網路連線程式、公開資料串接 2024/03/17](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/internet.py)  
+[15. 自主學習：類別的定義與使用 - Class Attributes 2024/03/17](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/class.py)  
 
 
 

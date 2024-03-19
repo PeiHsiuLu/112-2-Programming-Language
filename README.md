@@ -7,7 +7,7 @@
 
 # 自主學習筆記區
 這是我自主學習的紀錄，期望可以透過紀錄自己學習python的過程，讓自己變得更好！ 
-(預計3月31日前結束)[感謝YT彭彭的課程：Python 入門教學課程](https://www.youtube.com/@cwpeng-course/playlists)
+[感謝YT彭彭的課程：Python 入門教學課程](https://www.youtube.com/@cwpeng-course/playlists)
   
 [1. 自主學習：變數與資料型態 2024/03/09](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/datatype_note.py)  
 [2. 自主學習：數字、字串的基本運算 2024/03/09](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/number-string_note.py)  
@@ -25,6 +25,10 @@
 [14. 自主學習：網路連線程式、公開資料串接 2024/03/17](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/internet.py)  
 [15. 自主學習：類別的定義與使用 - Class Attributes 2024/03/17](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/class.py)  
 [16. 自主學習：體物件的建立與使用 - 上篇 - 實體屬性 2024/03/19](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/classify-1.py)
+
+
+
+(預計3/31結束自學)
 
 
 

@@ -26,7 +26,8 @@
 [15. 自主學習：類別的定義與使用 - Class Attributes 2024/03/17](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/class.py)  
 [16. 自主學習：實體物件的建立與使用 - 上篇 - 實體屬性 2024/03/19](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/classify-1.py)  
 [17. 自主學習：實體物件的建立與使用 - 下篇 - 實體方法 - Instance Methods 2024/03/19](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/classify-2.py)  
-[18. 自主學習：網路爬蟲 Web Crawler 基本教學 2024/03/20](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/crawl_basic.py)
+[18. 自主學習：網路爬蟲 Web Crawler 基本教學 2024/03/20](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/crawl_basic.py)  
+[19. 自主學習：網路爬蟲 Web Crawler 教學 - Cookie 操作實務 2024/03/20](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/cookie.py)
 
 
 

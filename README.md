@@ -3,8 +3,6 @@
 姓名：呂沛修  
 系級：科技系二年級
 
-# 課程筆記區
-
 # 入門自主學習筆記區
 這是我自主學習的紀錄，期望可以透過紀錄自己學習python的過程，讓自己變得更好！ 
 [感謝YT彭彭的課程：Python 入門教學課程](https://www.youtube.com/@cwpeng-course/playlists)

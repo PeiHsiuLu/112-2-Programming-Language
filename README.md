@@ -33,7 +33,7 @@
 
 # 視覺化自主學習區
 Matplotlib資料視覺化
-
+[ 01. 自主學習：折線圖](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Visuallisation_study/line.py)
 
 
 # 作業連結區

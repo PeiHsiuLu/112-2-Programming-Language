@@ -5,6 +5,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.ticker import PercentFormatter
+plt.rcParams # 先將圖表設為中文可以解讀
 
 
 # 一、先做篩選與計算各個項目的資訊(生還者、死亡人數)
@@ -27,96 +28,26 @@ total_survival_data = (df['Survived'] == 1).sum()
 # 06. 計算總死亡人數
 total_death_data = (df['Survived'] ==0).sum()
 
-# 07. 計算男性總生還人數
-ms_data = ((df['Survived'] == 1) & (df['Sex'] == 'male')).sum()
-
-# 08. 計算男性總死亡人數
-md_data = ((df['Survived'] == 0) & (df['Sex'] == 'male')).sum()
-
-# 09. 計算女性總生還人數
-fs_data = ((df['Survived'] == 1) & (df['Sex'] == 'female')).sum()
-
-# 10. 計算女性總死亡人數
-fd_data = ((df['Survived'] == 0) & (df['Sex'] == 'female')).sum()
-
-# 11. 計算頭等艙男性生還人數
-ms_1_data = ((df['Survived'] == 1) & (df['Sex'] == 'male') &(df['Pclass']==1)).sum()
-
-# 12. 計算頭等艙男性死亡人數
-md_1_data = ((df['Survived'] == 0) & (df['Sex'] == 'male') &(df['Pclass']==1)).sum()
-
-# 13. 計算二等艙男性生還人數
-ms_2_data = ((df['Survived'] == 1) & (df['Sex'] == 'male') &(df['Pclass']==2)).sum()
-
-# 14. 計算二等艙男性死亡人數
-md_2_data = ((df['Survived'] == 0) & (df['Sex'] == 'male') &(df['Pclass']==2)).sum()
-
-# 15. 計算三等艙男性生還人數
-ms_3_data = ((df['Survived'] == 1) & (df['Sex'] == 'male') &(df['Pclass']==3)).sum()
-
-# 16. 計算三等艙男性死亡人數
-md_3_data = ((df['Survived'] == 0) & (df['Sex'] == 'male') &(df['Pclass']==3)).sum()
-
-# 17. 計算頭等艙女性生還人數
-fs_1_data = ((df['Survived'] == 1) & (df['Sex'] == 'female') &(df['Pclass']==1)).sum()
-
-# 18. 計算頭等艙女性死亡人數
-fd_1_data = ((df['Survived'] == 0) & (df['Sex'] == 'female') &(df['Pclass']==1)).sum()
-
-# 19. 計算二等艙女性生還人數
-fs_2_data = ((df['Survived'] == 1) & (df['Sex'] == 'female') &(df['Pclass']==2)).sum()
-
-# 20. 計算二等艙女性死亡人數
-fd_2_data = ((df['Survived'] == 0) & (df['Sex'] == 'female') &(df['Pclass']==2)).sum()
-
-# 21. 計算三等艙女性生還人數
-fs_3_data = ((df['Survived'] == 1) & (df['Sex'] == 'female') &(df['Pclass']==3)).sum()
-
-# 22. 計算三等艙女性死亡人數
-fd_3_data = ((df['Survived'] == 0) & (df['Sex'] == 'female') &(df['Pclass']==3)).sum()
 
 
 # 二、統計圖表 (以下是所會用到的統計圖表)
 
-# 01. 柏拉圖
+# 01. 折線圖
+x=[]
+y=[]
+def line_plot():
+    plt.plot(x,y)
 
-# (1) 先將生還者人數轉為集合
-n=1
-ps_survival_list = []
-while n<4:
-    ps_survival_list.append(survival_data.to_dict().get(n,0))
-    n+=1
-
-# (2) 創建DataFrame
-pc_s_list = pd.DataFrame({'count': ps_survival_list})
-pc_s_list.index = ['First class', 'Second class', 'Third class']
-
-# (3) 將數值由小到大排列
-pc_s_list = pc_s_list.sort_values(by='count', ascending=True)
-
-# (4) 具體計算每個count值的累積
-pc_s_list['cumperc'] = pc_s_list['count'].cumsum()/pc_s_list['count'].sum()*100
-
-# (5) 設計柏拉圖的美觀
-color1 = 'steelblue'
-color2 = 'red'       
-line_size = 4
-fig, ax = plt.subplots()
-ax.bar(pc_s_list.index, pc_s_list['count'], color=color1)
-
-# (6) 增加折線圖
-ax2 = ax.twinx()
-ax2.plot(pc_s_list.index, pc_s_list['cumperc'], color=color2, marker="D", ms=line_size)
-ax2.yaxis.set_major_formatter(PercentFormatter())
-
-# (7) 設置左右兩側y軸的刻度顏色
-ax.tick_params(axis='y', colors=color1)
-ax2.tick_params(axis='y', colors=color2)
-
-# (8) 設定柏拉圖的標題
-plt.title('The survival of each class\n')
-
+line_plot()
 # 02. 柱狀圖
+def bar_plot():
+    plt.bar(x,y)
+
+# 03. 柏拉圖
+
+# 04. 散佈圖
+
+# 05. 圓餅圖
 
 
 
@@ -126,5 +57,5 @@ plt.title('The survival of each class\n')
 
 # 01. 問題一：我想知道，三個艙等的生還者人數的高低落差，是否會因為社會階級不同而影響到生還率高低？(利用柏拉圖呈現)
 # 02. 問題一(延伸)：頭、二等艙與三等艙的生還人數比較我想知道 (柱狀圖)
-# 03. 問題二：有關於男女生還比例，我想要知道；並且，我想知道其他三個艙等男女生還比例各是多少 (圓餅圖)
+# 03. 問題二：我想知道票價是否與艙等有關係
 # 04. 問題三：年齡有影響到生還機率嗎？(柱狀圖)

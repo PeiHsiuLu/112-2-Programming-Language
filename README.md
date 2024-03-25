@@ -36,7 +36,7 @@ Matplotlib資料視覺化
 [ 感謝YT彭彭的課程：Matplotlib](https://www.youtube.com/watch?v=MceOR4Kvv9I&list=PL-g0fdC5RMbqDdag2l_F3ejf4xQ_QjGbq&pp=iAQB)  
   
 [ 01. 自主學習：折線圖 2024/03/22](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Visuallisation_study/line.py)  
-[ 02. 自主學習：長條圖 2024/03/22](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Visuallisation_study/bar.py)
+[ 02. 自主學習：長條圖 2024/03/22](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Visuallisation_study/bar.py)  
 [ 03. 自主學習：圓餅圖](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Visuallisation_study/pie.py)
 
 

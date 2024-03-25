@@ -44,6 +44,7 @@ Pclass_death = df[df['Survived'] == 'death'].groupby(['Age_Group', 'Pclass'], ob
 
 Pclass_Survival_dict = Pclass_survival.to_dict()
 Survival_values= [value for value in Pclass_Survival_dict.values()]
+Survival_keys = [key for key in Pclass_Survival_dict.keys()]
 Pclass_Death_dict = Pclass_death.to_dict()
 Death_values= [value for value in Pclass_Death_dict.values()]
 list_Pclass=['First','Second','Third']
@@ -70,6 +71,14 @@ def Pclass_passengers():
 
     print(f'\n各艙層乘客人數如下：\n\n{df}')
     return df
+
+# 03. 各年齡層乘客生還與否 DataFrame 圖表
+def Pclass_alive_or_death():
+        df = pd.DataFrame({"Alive":Survival_values})
+        df.index = Survival_keys
+        df['Death'] = Death_values
+        print(f'\n各艙層生還與死亡人數概況：\n\n{df}')
+        return df
 
 
     
@@ -115,6 +124,7 @@ def question_2():
 
 # 03. 問題三：我想瞭解不同階層不同年齡層是否會影響生存人數？(三張柱狀圖)
 def question_3():
+    Pclass_alive_or_death()
     for i in range(3):
         plt.subplots(1,3)
         plt.figtext(0.05, 0.95, f'問題三：不同艙層的{age_labels[i]}存亡概況', fontsize=20, color='black', fontweight='bold')

@@ -45,8 +45,11 @@ Matplotlib資料視覺化
 [HW1：利用Pandas讀取CSV檔進行資料分析](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/HW1-112%E5%B9%B4%E8%88%87102%E5%B9%B4%E4%BA%8C%E9%A1%9E%E7%B5%84%E5%88%86%E7%A7%91%E6%8E%92%E8%A1%8C%E5%89%8D10%E5%90%8D%E6%AF%94%E8%BC%83_%E9%87%8D%E5%81%9A.py)  
 [HW1：分析報告](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/HW1%EF%BC%9A%E5%88%86%E6%9E%90112%E8%87%B3102%E5%B9%B410%E5%B9%B4%E4%B9%8B%E9%96%93%E7%9A%84%E4%BA%8C%E9%A1%9E%E7%B5%84%E7%86%B1%E9%96%80%E7%A7%91%E7%B3%BB%E5%89%8D%E5%8D%81%E5%90%8D.pdf)  
 
+[HW2：利用Matplotlib進行各項資料分析(柱狀圖、圓餅圖、柏拉圖、散佈圖)](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/HW2_%E8%A6%96%E8%A6%BA%E5%8C%96%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90%EF%BC%9A%E9%90%B5%E9%81%94%E5%B0%BC%E8%99%9F%E4%B9%98%E5%AE%A2%E5%90%8D%E5%96%AE%E6%8E%A8%E6%95%B2%E7%94%9F%E9%82%84%E8%80%85%E8%B3%87%E8%A8%8A.py)
+
 
 # 專題連結區   
+[ 專題_01：利用Matplotlib分析鐵達尼號各艙層的死亡與生還概況](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/HW2_%E8%A6%96%E8%A6%BA%E5%8C%96%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90%EF%BC%9A%E9%90%B5%E9%81%94%E5%B0%BC%E8%99%9F%E4%B9%98%E5%AE%A2%E5%90%8D%E5%96%AE%E6%8E%A8%E6%95%B2%E7%94%9F%E9%82%84%E8%80%85%E8%B3%87%E8%A8%8A.py)
 
 # Markdown 語法說明
 Markdown 語法說明：https://markdown.tw/

@@ -42,23 +42,35 @@ Pclass_survival = df[df['Survived'] == 'alive'].groupby(['Age_Group', 'Pclass'],
 # 08. 篩選出各年齡層死亡人數
 Pclass_death = df[df['Survived'] == 'death'].groupby(['Age_Group', 'Pclass'], observed=False).size()
 
+passenger_df_dict = passenger_df.to_dict()
+keys = [key for key in passenger_df_dict.keys()]
+values = [value for value in passenger_df_dict.values()]
+
 Pclass_Survival_dict = Pclass_survival.to_dict()
 Survival_values= [value for value in Pclass_Survival_dict.values()]
 Survival_keys = [key for key in Pclass_Survival_dict.keys()]
 Pclass_Death_dict = Pclass_death.to_dict()
 Death_values= [value for value in Pclass_Death_dict.values()]
 list_Pclass=['First','Second','Third']
+list_Pclass.append('Total')
 colors_1 = ['red','yellow','blue']
 
 
+survival_data_dict = survival_data.to_dict()
+survival_data_dict.update({'Total Alive':total_survival_data})
+survival_data_keys = [key for key in survival_data_dict.keys()]
+survival_data_values = [value for value in survival_data_dict.values()]
+
+
+death_data_dict = death_data.to_dict()
+death_data_dict.update({'Total Death':total_death_data})
+death_data_keys = [key for key in death_data_dict.keys()]
+death_data_values = [value for value in death_data_dict.values()]
 
 # 二、Pandas 圖表
 
 # 00. 各艙層乘客人數：
 def Pclass_passengers():
-    passenger_df_dict = passenger_df.to_dict()
-    keys = [key for key in passenger_df_dict.keys()]
-    values = [value for value in passenger_df_dict.values()]
 
     df = pd.DataFrame({'count': values})
     df.index = keys
@@ -72,13 +84,24 @@ def Pclass_passengers():
     print(f'\n各艙層乘客人數如下：\n\n{df}')
     return df
 
+# 01. 各個不同社會階級的生還率 DataFrame 圖表
+def Pclass_alive_or_death_perc():
+    df_1 = pd.DataFrame({'Alive':survival_data_values})
+    df_1.index = list_Pclass
+    df_1['Death'] = death_data_values
+    df_1['Alive perc(%)'] = round(df_1['Alive']/(df_1['Alive']+df_1['Death'])*100,2)
+    df_1['Death perc(%)'] = round(df_1['Death']/(df_1['Alive']+df_1['Death'])*100,2)
+    print(f'\n各艙層的生還與死亡率分布：\n\n{df_1}')
+    return df_1
+
+
 # 03. 各年齡層乘客生還與否 DataFrame 圖表
 def Pclass_alive_or_death():
-        df = pd.DataFrame({"Alive":Survival_values})
-        df.index = Survival_keys
-        df['Death'] = Death_values
-        print(f'\n各艙層生還與死亡人數概況：\n\n{df}')
-        return df
+    df_3 = pd.DataFrame({"Alive":Survival_values})
+    df_3.index = Survival_keys
+    df_3['Death'] = Death_values
+    print(f'\n各艙層生還與死亡人數概況：\n\n{df_3}')
+    return df_3
 
 
     
@@ -95,8 +118,12 @@ def line_plot(x,y,color="blue"):
 # 02. 散佈圖
 
 # 03. 圓餅圖
-
-
+def pie_plot(x, labels=None, labeldistance=0.5, title=None):
+    total = sum(x)
+    plt.title(title)
+    plt.pie(x, labels=labels, labeldistance=labeldistance)
+    plt.legend()
+    
 # 四、問題函式
 
 # 00. 問題零：我想知道，不同艙等階級的人數有多少？(柏拉圖呈現)
@@ -116,7 +143,20 @@ def question_0():
 
 # 01. 問題一：我想知道，三個艙等的生還者人數的高低落差，是否會因為社會階級不同而影響到生還率高低？(利用圓餅圖呈現)
 def question_1():
-    1
+    Pclass_alive_or_death_perc()  # 呼叫函式並接收返回的 DataFrame
+    plt.subplots(1,3)
+    for n in range(4):
+        if(n+1==4):
+            plt.subplots(1,1)
+            plt.subplot(1,1,1)
+            x = [death_data_values[3], survival_data_values[3]]
+            pie_plot(x,labels=['Death','Alive'],labeldistance=0.5, title=f'{list_Pclass[n]} Survival rate')
+        else:
+            plt.subplot(1,3,n+1)
+            x = [death_data_values[n], survival_data_values[n]]
+            pie_plot(x,labels=['Death','Alive'],labeldistance=0.5, title=f'{list_Pclass[n]} class Survival rate')
+
+            
 
 # 02. 問題二：我想知道票價是否與艙等有關係 (一張散佈圖)
 def question_2():
@@ -141,8 +181,6 @@ def question_3():
             plt.ylabel('乘\n客\n人\n數', rotation=0, labelpad=10, fontsize=15, color='black', fontweight='bold')
             
             
-            
-
 # 五、主程式
 
 def main():

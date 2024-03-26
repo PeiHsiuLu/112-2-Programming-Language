@@ -189,6 +189,7 @@ def question_2():
     plt.subplot(1,1,1)
     plt.xlabel('Pclass',labelpad=10,fontsize=15, color='black',fontweight='bold')
     plt.ylabel('票\n價', rotation=0, labelpad=10, fontsize=15, color='black', fontweight='bold')
+    plt.title('票價與艙層間的關係',fontsize=15, color='black',fontweight='bold')
     plt.figtext(0.05, 0.95, '問題二', fontsize=20, color='black', fontweight='bold')
     scatter_plot(pclass_list,Pclass_passenger_Fare,c="black",s=50)
     

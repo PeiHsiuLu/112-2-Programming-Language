@@ -76,5 +76,20 @@ def average_(*numbers):
 value = average_(52,49,36,78,92)
 print(value)
 
+# 函式範例1
+def CtoF(degreeC):
+    degreeF = degreeC * 1.8 +32
+    return degreeF
+tempC = CtoF(eval(input("請輸入攝氏溫度:")))
+print(tempC)
+
+# 函式範例2
+def multi(*msgs):
+    return[x for x in msgs]
+        
+    
+y=multi("a","b","c")
+print(y)
+
 
         

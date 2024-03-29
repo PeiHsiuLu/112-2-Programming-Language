@@ -75,5 +75,25 @@ for n in range(1,101):
             sum+=n
 
 print(sum)
-        
+
+# 範例
+i = 0
+while i < 10:
+    i = i + 1
+    if i %3 != 0:
+        continue
+    print(i)
+    # 輸出3,6,9
+i = 0
+while i < 10:
+ i = i + 1
+ if i %5 == 0: #到5脫離迴圈
+  break
+ print(i) #印出1,2,3,4
+
+
+# range
+range(2) #輸出0,1
+range(2,5) #第一位：開頭；第二位：結束
+range(10,-10,-2) #第一位：開頭 :第二位：結束；第三位：等差數列
     

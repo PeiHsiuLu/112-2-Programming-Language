@@ -100,4 +100,3 @@ def score():
     return
 
 score()
-

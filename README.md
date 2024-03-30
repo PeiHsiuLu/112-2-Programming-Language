@@ -62,6 +62,7 @@ Markdown 語法說明：https://markdown.tw/
 [1. 師大本部人的三餐選擇器 2024/03/16](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/folio/choose_food.py) 
 
 # python 30 日小專題訓練  
-因為2024/04/01後應該會有很長一段時間不碰 python，所以我決定利用chatgpt設計的 30 道題目每天花20-30分鐘練習
+感謝chatgpt協助設計題目  
+[ Day01 實現一個計算器程序，接受用戶輸入兩個數字和一個操作符（例如+、-、*、/），並輸出計算結果。 2024/03/29](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/calculate.py)
 
 

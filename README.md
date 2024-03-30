@@ -63,6 +63,7 @@ Markdown 語法說明：https://markdown.tw/
 
 # python 30 日小專題訓練  
 感謝chatgpt協助設計題目  
-[ Day01 實現一個計算器程序，接受用戶輸入兩個數字和一個操作符（例如+、-、*、/），並輸出計算結果。 2024/03/29](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/calculate.py)
+[ Day01 實現一個計算器程序，接受用戶輸入兩個數字和一個操作符（例如+、-、*、/），並輸出計算結果。 2024/03/29](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/calculate.py)  
+[ Day02 實現一個程式，判斷給定的整數是否為質數 2024/03/30](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/prime.py)
 
 

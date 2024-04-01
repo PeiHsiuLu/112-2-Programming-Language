@@ -68,6 +68,7 @@ Markdown 語法說明：https://markdown.tw/
 
 [ Day01 實現一個計算器程序，接受用戶輸入兩個數字和一個操作符（例如+、-、*、/），並輸出計算結果。 2024/03/29](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/calculate.py)  
 [ Day02 實現一個程式，判斷給定的整數是否為質數 2024/03/30](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/prime.py)  
-[ Day03 編寫一個程式，輸入一個整數 n，輸出費波納契數列的前 n 項 2024/03/31](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/F.py)
+[ Day03 編寫一個程式，輸入一個整數 n，輸出費波納契數列的前 n 項 2024/03/31](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/F.py)  
+[ Day04 編寫一個程式，輸入一個字符串，判斷它是不是迴文字符串](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/text.py)  
 
 

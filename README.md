@@ -70,6 +70,7 @@ Markdown 語法說明：https://markdown.tw/
 [ Day02 實現一個程式，判斷給定的整數是否為質數 2024/03/30](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/prime.py)  
 [ Day03 編寫一個程式，輸入一個整數 n，輸出費波納契數列的前 n 項 2024/03/31](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/F.py)  
 [ Day04 編寫一個程式，輸入一個字符串，判斷它是不是迴文字符串](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/text.py)  
-[ Day05 將兩個列表合併為一個，並按升序](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/list.py)
+[ Day05 將兩個列表合併為一個，並按升序](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/list.py)  
+[ Day06 編寫一個程式，計算給定列表中所有元素的平均值](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/average.py)
 
 

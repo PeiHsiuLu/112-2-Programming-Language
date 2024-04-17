@@ -1,4 +1,4 @@
-![image](https://github.com/PeiHsiuLu/112-2-Programming-Language/assets/144085514/1fa061cd-65b8-4c24-a35f-6bef26812b6f)# 112-2 師大科技系程式語言 
+# 112-2 師大科技系程式語言 
 授課教師：蔡芸琤教授  
 姓名：呂沛修  
 系級：科技系二年級

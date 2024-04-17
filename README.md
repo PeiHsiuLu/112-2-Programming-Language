@@ -47,7 +47,13 @@ Matplotlib資料視覺化
 
 [HW2：利用Matplotlib進行各項資料分析(柱狀圖、圓餅圖、柏拉圖、散佈圖) — 鐵達尼號乘客名單推敲生還者資訊](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/HW2_%E8%A6%96%E8%A6%BA%E5%8C%96%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90%EF%BC%9A%E9%90%B5%E9%81%94%E5%B0%BC%E8%99%9F%E4%B9%98%E5%AE%A2%E5%90%8D%E5%96%AE%E6%8E%A8%E6%95%B2%E7%94%9F%E9%82%84%E8%80%85%E8%B3%87%E8%A8%8A.py)  
 [HW2：分析報告](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/HW2%5E7%E8%A6%96%E8%A6%BA%E5%8C%96%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90%5E7%E9%90%B5%E9%81%94%E5%B0%BC%E8%99%9F%E4%B9%98%E5%AE%A2%E5%90%8D%E5%96%AE%E6%8E%A8%E6%95%B2%E7%94%9F%E9%82%84%E8%80%85%E8%B3%87%E8%A8%8A.pdf)  
-[HW2：圖表(四大問題DataFrame&Matplotlib圖表)](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/HW2-Matplotlib%20%E5%9C%96%E8%A1%A8(%E6%9F%B1%E7%8B%80%E5%9C%96%E3%80%81%E5%9C%93%E9%A4%85%E5%9C%96%E3%80%81%E6%9F%8F%E6%8B%89%E5%9C%96%E3%80%81DataFrame)%20(1).pdf)
+[HW2：圖表(四大問題DataFrame&Matplotlib圖表)](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/HW2-Matplotlib%20%E5%9C%96%E8%A1%A8(%E6%9F%B1%E7%8B%80%E5%9C%96%E3%80%81%E5%9C%93%E9%A4%85%E5%9C%96%E3%80%81%E6%9F%8F%E6%8B%89%E5%9C%96%E3%80%81DataFrame)%20(1).pdf) 
+  
+[HW3：練習爬蟲(PTT軍事版)](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/HW3-crawl.py)  
+[HW3_CSV](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/military.csv)  
+[HW3_JSON](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/military.json)  
+[HW3_程式碼執行結果](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/%E7%B5%90%E6%9E%9C.png)  
+[HW3_YT解說影片](https://www.youtube.com/watch?v=kuLXT4rfXcE)
 
 
 # 專題連結區   
@@ -62,8 +68,8 @@ Markdown 語法說明：https://markdown.tw/
   
 [1. 師大本部人的三餐選擇器 2024/03/16](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/folio/choose_food.py) 
 
-# python 30 日小專題訓練  
-感謝chatgpt協助設計題目 - 30日計畫：  
+# python 7 日小專題訓練  
+感謝chatgpt協助設計題目 - 7日計畫：  
 
 
 [ Day01 實現一個計算器程序，接受用戶輸入兩個數字和一個操作符（例如+、-、*、/），並輸出計算結果。 2024/03/29](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/calculate.py)  
@@ -71,6 +77,7 @@ Markdown 語法說明：https://markdown.tw/
 [ Day03 編寫一個程式，輸入一個整數 n，輸出費波納契數列的前 n 項 2024/03/31](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/F.py)  
 [ Day04 編寫一個程式，輸入一個字符串，判斷它是不是迴文字符串](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/text.py)  
 [ Day05 將兩個列表合併為一個，並按升序](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/list.py)  
-[ Day06 編寫一個程式，計算給定列表中所有元素的平均值](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/average.py)
+[ Day06 編寫一個程式，計算給定列表中所有元素的平均值](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/average.py)  
+[ Day07 編寫一個程式，檢查一個字符串是否是另一個字符串的子串。](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/same-text.py)
 
 

@@ -66,8 +66,8 @@ Markdown 語法說明：https://markdown.tw/
   
 [1. 師大本部人的三餐選擇器 2024/03/16](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/folio/choose_food.py) 
 
-# python 30 日小專題訓練  
-感謝chatgpt協助設計題目 - 30日計畫：  
+# python 7 日小專題訓練  
+感謝chatgpt協助設計題目 - 7日計畫：  
 
 
 [ Day01 實現一個計算器程序，接受用戶輸入兩個數字和一個操作符（例如+、-、*、/），並輸出計算結果。 2024/03/29](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/calculate.py)  
@@ -75,6 +75,7 @@ Markdown 語法說明：https://markdown.tw/
 [ Day03 編寫一個程式，輸入一個整數 n，輸出費波納契數列的前 n 項 2024/03/31](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/F.py)  
 [ Day04 編寫一個程式，輸入一個字符串，判斷它是不是迴文字符串](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/text.py)  
 [ Day05 將兩個列表合併為一個，並按升序](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/list.py)  
-[ Day06 編寫一個程式，計算給定列表中所有元素的平均值](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/average.py)
+[ Day06 編寫一個程式，計算給定列表中所有元素的平均值](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/average.py)  
+[ Day07 編寫一個程式，檢查一個字符串是否是另一個字符串的子串。](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/same-text.py)
 
 

@@ -52,7 +52,8 @@ Matplotlib資料視覺化
 [HW3：練習爬蟲(PTT軍事版)](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/HW3-crawl.py)  
 [HW3_CSV](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/military.csv)  
 [HW3_JSON](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/military.json)  
-[HW3_程式碼執行結果](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/%E7%B5%90%E6%9E%9C.png)
+[HW3_程式碼執行結果](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/%E7%B5%90%E6%9E%9C.png)  
+[HW3_YT解說影片](https://www.youtube.com/watch?v=kuLXT4rfXcE)
 
 
 # 專題連結區   

@@ -34,8 +34,9 @@ def getData(url):
     
     # CSV存檔
     df.to_csv("military.csv", index=False)
-    # JSON存檔
-    df.to_json("military.json", orient="records", force_ascii=False, lines=True)
+    # 将 DataFrame 存储为 JSON 文件，并设置 force_ascii=False
+    df.to_json("military.json", orient="records", force_ascii=False)
+ 
     print("\n\n\n")
     
     

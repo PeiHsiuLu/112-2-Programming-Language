@@ -1,4 +1,4 @@
-# 112-2 師大科技系程式語言 
+![image](https://github.com/PeiHsiuLu/112-2-Programming-Language/assets/144085514/1fa061cd-65b8-4c24-a35f-6bef26812b6f)# 112-2 師大科技系程式語言 
 授課教師：蔡芸琤教授  
 姓名：呂沛修  
 系級：科技系二年級
@@ -51,6 +51,7 @@ Matplotlib資料視覺化
 [HW3：練習爬蟲(PTT軍事版)](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/HW3-crawl.py)  
 [HW3_CSV](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/military.csv)  
 [HW3_JSON](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/military.json)  
+[HW3_程式碼執行結果]()
 
 
 # 專題連結區   

@@ -58,7 +58,7 @@ Matplotlib資料視覺化
 
 # 專題連結區   
 [ 專題_01：利用Matplotlib分析鐵達尼號各艙層的死亡與生還概況](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/HW2_%E8%A6%96%E8%A6%BA%E5%8C%96%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90%EF%BC%9A%E9%90%B5%E9%81%94%E5%B0%BC%E8%99%9F%E4%B9%98%E5%AE%A2%E5%90%8D%E5%96%AE%E6%8E%A8%E6%95%B2%E7%94%9F%E9%82%84%E8%80%85%E8%B3%87%E8%A8%8A.py)  
-[ 專題 01：分析報告](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/HW2%5E7%E8%A6%96%E8%A6%BA%E5%8C%96%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90%5E7%E9%90%B5%E9%81%94%E5%B0%BC%E8%99%9F%E4%B9%98%E5%AE%A2%E5%90%8D%E5%96%AE%E6%8E%A8%E6%95%B2%E7%94%9F%E9%82%84%E8%80%85%E8%B3%87%E8%A8%8A.pdf)
+[ 專題 01：分析報告](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/HW2%5E7%E8%A6%96%E8%A6%BA%E5%8C%96%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90%5E7%E9%90%B5%E9%81%94%E5%B0%BC%E8%99%9F%E4%B9%98%E5%AE%A2%E5%90%8D%E5%96%AE%E6%8E%A8%E6%95%B2%E7%94%9F%E9%82%84%E8%80%85%E8%B3%87%E8%A8%8A.pdf)  
 
 
 # Markdown 語法說明
@@ -66,7 +66,8 @@ Markdown 語法說明：https://markdown.tw/
 # python 小專題  
 有時太忙沒有自主學習，就利用20-30分鐘的零星時間做些小專案，訓練手感  
   
-[1. 師大本部人的三餐選擇器 2024/03/16](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/folio/choose_food.py) 
+[1. 師大本部人的三餐選擇器 2024/03/16](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/folio/choose_food.py)  
+[2. 下載 YT MP4格式影片 2024/04/28](https://colab.research.google.com/drive/1ufR0NN8A3fwTDEYdncKc4PMP5wcVeUBW#scrollTo=EZMkT6MhBpJ) 
 
 # python 7 日小專題訓練  
 感謝chatgpt協助設計題目 - 7日計畫：  
@@ -79,5 +80,8 @@ Markdown 語法說明：https://markdown.tw/
 [ Day05 將兩個列表合併為一個，並按升序](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/list.py)  
 [ Day06 編寫一個程式，計算給定列表中所有元素的平均值](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/average.py)  
 [ Day07 編寫一個程式，檢查一個字符串是否是另一個字符串的子串。](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/same-text.py)
+
+# 利用python下載youtube  
+[下載YT影片程式碼_pytube的使用](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Video-Download/video_download.py)  
 
 

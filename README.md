@@ -3,7 +3,7 @@
 姓名：呂沛修  
 系級：科技系二年級
 
-# 入門自主學習筆記區
+# 一、入門自主學習筆記區
 這是我自主學習的紀錄，期望可以透過紀錄自己學習python的過程，讓自己變得更好！ 
   
 [01. 自主學習：變數與資料型態 2024/03/09](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/datatype_note.py)  
@@ -26,7 +26,7 @@
 [18. 自主學習：網路爬蟲 Web Crawler 基本教學 2024/03/20](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/crawl_basic.py)  
 [19. 自主學習：網路爬蟲 Web Crawler 教學 - Cookie 操作實務 2024/03/20](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/cookie.py)  
 
-# 期末專題 - AI人臉情緒辨識
+# 二、期末專題 - AI人臉情緒辨識
 主要是導入模型訓練 ai 辨識人臉的六大情緒(AI影像辨識) ："Happy","Angry","Sad","Surprise","Neutral","Fear"  
 ## 所使用到的技術
 1. tensorflow
@@ -74,7 +74,7 @@
 
 
 
-# 視覺化自主學習區
+# 三、視覺化自主學習區
 Matplotlib資料視覺化  
   
 [ 01. 自主學習：折線圖 2024/03/22](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Visuallisation_study/line.py)  
@@ -83,7 +83,7 @@ Matplotlib資料視覺化
 [ 04. 自主學習：散佈圖 2024/03/26](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Visuallisation_study/scatter.py)  
 
 
-# 作業連結區
+# 四、課堂作業連結區
 [HW1：利用Pandas讀取CSV檔進行資料分析 — 112年與102年二類組分科排行前10名比較](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/HW1-112%E5%B9%B4%E8%88%87102%E5%B9%B4%E4%BA%8C%E9%A1%9E%E7%B5%84%E5%88%86%E7%A7%91%E6%8E%92%E8%A1%8C%E5%89%8D10%E5%90%8D%E6%AF%94%E8%BC%83_%E9%87%8D%E5%81%9A.py)  
 [HW1：分析報告](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/HW1%EF%BC%9A%E5%88%86%E6%9E%90112%E8%87%B3102%E5%B9%B410%E5%B9%B4%E4%B9%8B%E9%96%93%E7%9A%84%E4%BA%8C%E9%A1%9E%E7%B5%84%E7%86%B1%E9%96%80%E7%A7%91%E7%B3%BB%E5%89%8D%E5%8D%81%E5%90%8D.pdf)  
 
@@ -100,15 +100,15 @@ Matplotlib資料視覺化
 [HW4_LLM&Jieba關聯圖生成](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/HW4.ipynb)  
 
 
-# Markdown 語法說明
+# 五、Markdown 語法說明
 Markdown 語法說明：https://markdown.tw/
-# python 小專題  
+# 六、python 小專題  
 有時太忙沒有自主學習，就利用20-30分鐘的零星時間做些小專案，訓練手感  
   
 [1. 師大本部人的三餐選擇器 2024/03/16](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/folio/choose_food.py)  
 [2. 下載 YT MP4格式影片 2024/04/28](https://colab.research.google.com/drive/1ufR0NN8A3fwTDEYdncKc4PMP5wcVeUBW#scrollTo=EZMkT6MhBpJ) 
 
-# python 7 日小專題訓練  
+# 七、python 7 日小專題訓練  
 感謝chatgpt協助設計題目 - 7日計畫：  
 
 
@@ -120,7 +120,8 @@ Markdown 語法說明：https://markdown.tw/
 [ Day06 編寫一個程式，計算給定列表中所有元素的平均值](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/average.py)  
 [ Day07 編寫一個程式，檢查一個字符串是否是另一個字符串的子串。](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/same-text.py)
 
-# 利用python下載youtube  
+# 八、利用python下載youtube  
+為了個人需求，寫了代碼方便自己從yt下載影片  
 [下載YT影片程式碼_pytube的使用](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Video-Download/video_download.py)  
 
 

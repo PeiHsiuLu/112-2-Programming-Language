@@ -24,7 +24,50 @@
 [16. 自主學習：實體物件的建立與使用 - 上篇 - 實體屬性 2024/03/19](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/classify-1.py)  
 [17. 自主學習：實體物件的建立與使用 - 下篇 - 實體方法 - Instance Methods 2024/03/19](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/classify-2.py)  
 [18. 自主學習：網路爬蟲 Web Crawler 基本教學 2024/03/20](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/crawl_basic.py)  
-[19. 自主學習：網路爬蟲 Web Crawler 教學 - Cookie 操作實務 2024/03/20](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/cookie.py)
+[19. 自主學習：網路爬蟲 Web Crawler 教學 - Cookie 操作實務 2024/03/20](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/cookie.py)  
+
+# 期末專題 - AI人臉情緒辨識
+主要是導入模型訓練 ai 辨識人臉的六大情緒(AI影像辨識) ："Happy","Angry","Sad","Surprise","Neutral","Fear"  
+## 所使用到的技術
+1. tensorflow
+2. numpy
+3. keras
+## 關於我們的AI期末專題
+### 為甚麼想要做AI人臉情緒辨識的專題
+我們不會管理自己的表情，常常讓人覺得我們擺著一張臭臉或心情不好，導致社交困難。
+
+透過臉部城管家，我們可以開始管理自己的表情，讓他隨時看起來都是開心的。
+
+### 鎖定受眾
+1. 大眾層面 – 面部表情控制：協助進行表情控制
+2. 企業層面 – 人力資源徵才：內心：開心 >>> 表現：憤怒
+
+### 技術上如何實現這樣的服務
+1. Gradio 網頁展示：利用上傳的照片或是影片轉換成偵測的情緒，進行輸出
+2. 深度學習：自主運用Tensorflow套件訓練AI模型(桌機)、Kaggle資料集：FER-2013 (10000多張照片)
+3. 運行的程式環境 - Jupyter Notebook：可用記憶體較大，沒有像是colab的記憶體用量限制
+
+
+## 各次進度
+[0423-0501 第一次提案成果展示](https://www.youtube.com/watch?v=_fisrHrd9S4)  
+[0502-0515 第二次提案成果展示](https://www.youtube.com/watch?v=7CXz_LF7uAY)  
+[0516-0606 期末成果展示](https://www.youtube.com/watch?v=2kOsxPXWxgI)  
+
+## 訓練模型與檔案
+[訓練的模型](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Final_Project/model%20.h5)  
+[AI 情緒模型訓練檔](https://github.com/PeiHsiuLu/-/blob/main/emodetect_.ipynb)  
+[使用模型來輸出影片或即時辨識](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/emooutput_.ipynb)  
+[Gradio 成果展示](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/gradio.ipynb)  
+
+## 這次的 AI 模型訓練心得
+這次挑選AI影像辨識來做為我們的期末專題，主要是因為想要對AI有更深一層的了解。在做專題的同時，也發現到訓練AI模型的不易：如果電腦性能不夠好(GPU規格不夠)，就難以進行模型訓練，因為AI模型訓練非常需要有強大的GPU做後援。
+
+
+
+
+
+
+
 
 
 

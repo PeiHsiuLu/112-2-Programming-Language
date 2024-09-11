@@ -56,7 +56,7 @@
 
 ## 訓練模型與檔案
 [訓練的模型](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Final_Project/model%20.h5)  
-[AI 情緒模型訓練檔](https://github.com/PeiHsiuLu/-/blob/main/emodetect_.ipynb)  
+[AI 情緒模型訓練檔](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/emodetect%20(3).ipynb)  
 [使用模型來輸出影片或即時辨識](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/emooutput_.ipynb)  
 [Gradio 成果展示](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/gradio.ipynb)  
 

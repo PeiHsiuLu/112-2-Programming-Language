@@ -3,28 +3,6 @@
 姓名：呂沛修  
 系級：科技系二年級
 
-# 一、入門自主學習筆記區
-這是我自主學習的紀錄，期望可以透過紀錄自己學習python的過程，讓自己變得更好！ 
-  
-[01. 自主學習：變數與資料型態 2024/03/09](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/datatype_note.py)  
-[02. 自主學習：數字、字串的基本運算 2024/03/09](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/number-string_note.py)  
-[03. 自主學習：有序列表的基本運算 - List、Tuple 2024/03/09](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/list-tuple.py)  
-[04. 自主學習：集合、字典的基本運算 - Set、Dictionary 2024/03/09](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/set-dict.py)  
-[05. 自主學習：流程控制：if 判斷式 2024/03/10](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/if.py)  
-[06. 自主學習：流程控制：迴圈基礎，while 迴圈、for 迴圈 2024/03/10](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/loop.py)  
-[07. 自主學習：流程控制：迴圈進階控制，break、continue、else 命令 2024/03/11](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/loop-advanved.py)  
-[08. 自主學習：函式基礎：定義並呼叫函式 2024/03/11](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/function.py)  
-[09. 自主學習：函式參數詳解：參數預設值、名稱對應、任意長度參數 2024/03/12](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/function_advanced.py)  
-[10. 自主學習：Module 模組的載入與使用 2024/03/12](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/module.py)  
-[11. 自主學習：Package 封包的設計與使用 2024/03/12](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/main_package_practice.py)  
-[12. 自主學習：文字檔案的讀取和儲存 2024/03/15](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/file.py)  
-[13. 自主學習：亂數與統計模組 2024/03/15](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/random_statistic_module.py)  
-[14. 自主學習：網路連線程式、公開資料串接 2024/03/17](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/internet.py)  
-[15. 自主學習：類別的定義與使用 - Class Attributes 2024/03/17](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/class.py)  
-[16. 自主學習：實體物件的建立與使用 - 上篇 - 實體屬性 2024/03/19](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/classify-1.py)  
-[17. 自主學習：實體物件的建立與使用 - 下篇 - 實體方法 - Instance Methods 2024/03/19](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/classify-2.py)  
-[18. 自主學習：網路爬蟲 Web Crawler 基本教學 2024/03/20](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/crawl_basic.py)  
-[19. 自主學習：網路爬蟲 Web Crawler 教學 - Cookie 操作實務 2024/03/20](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/cookie.py)  
 
 # 一、期末專題 - AI人臉情緒辨識
 主要是導入模型訓練 ai 辨識人臉的六大情緒(AI影像辨識) ："Happy","Angry","Sad","Surprise","Neutral","Fear"  

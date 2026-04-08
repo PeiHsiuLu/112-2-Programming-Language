@@ -60,7 +60,6 @@
 
 
 # 三、python 小專題  
-有時太忙沒有自主學習，就利用20-30分鐘的零星時間做些小專案，訓練手感  
   
 [1. 師大本部人的三餐選擇器 2024/03/16](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/folio/choose_food.py)  
 [2. 下載 YT MP4格式影片 2024/04/28](https://colab.research.google.com/drive/1ufR0NN8A3fwTDEYdncKc4PMP5wcVeUBW#scrollTo=EZMkT6MhBpJ) 

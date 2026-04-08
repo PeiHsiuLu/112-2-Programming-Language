@@ -56,7 +56,7 @@
 [HW3_程式碼執行結果](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/%E7%B5%90%E6%9E%9C.png)  
 [HW3_YT解說影片](https://www.youtube.com/watch?v=kuLXT4rfXcE)
 
-[HW4_LLM&Jieba關聯圖生成](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/HW4.ipynb)  
+[HW4_LLM&Jieba關聯圖生成](https://colab.research.google.com/drive/1qytVBIjxypYkJBfhDik-zeqobz55WzRx?usp=sharing)  
 
 
 # 三、python 小專題  

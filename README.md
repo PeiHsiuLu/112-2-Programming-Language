@@ -26,7 +26,7 @@
 [18. 自主學習：網路爬蟲 Web Crawler 基本教學 2024/03/20](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/crawl_basic.py)  
 [19. 自主學習：網路爬蟲 Web Crawler 教學 - Cookie 操作實務 2024/03/20](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Practice/cookie.py)  
 
-# 二、期末專題 - AI人臉情緒辨識
+# 一、期末專題 - AI人臉情緒辨識
 主要是導入模型訓練 ai 辨識人臉的六大情緒(AI影像辨識) ："Happy","Angry","Sad","Surprise","Neutral","Fear"  
 ## 所使用到的技術
 1. tensorflow
@@ -64,26 +64,7 @@
 這次挑選AI影像辨識來做為我們的期末專題，主要是因為想要對AI有更深一層的了解。在做專題的同時，也發現到訓練AI模型的不易：如果電腦性能不夠好(GPU規格不夠)，就難以進行模型訓練，因為AI模型訓練非常需要有強大的GPU做後援。
 
 
-
-
-
-
-
-
-
-
-
-
-# 三、視覺化自主學習區
-Matplotlib資料視覺化  
-  
-[ 01. 自主學習：折線圖 2024/03/22](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Visuallisation_study/line.py)  
-[ 02. 自主學習：長條圖 2024/03/22](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Visuallisation_study/bar.py)  
-[ 03. 自主學習：圓餅圖 2024/03/25](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Visuallisation_study/pie.py)  
-[ 04. 自主學習：散佈圖 2024/03/26](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Visuallisation_study/scatter.py)  
-
-
-# 四、課堂作業連結區
+# 二、課堂作業連結區
 [HW1：利用Pandas讀取CSV檔進行資料分析 — 112年與102年二類組分科排行前10名比較](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/HW1-112%E5%B9%B4%E8%88%87102%E5%B9%B4%E4%BA%8C%E9%A1%9E%E7%B5%84%E5%88%86%E7%A7%91%E6%8E%92%E8%A1%8C%E5%89%8D10%E5%90%8D%E6%AF%94%E8%BC%83_%E9%87%8D%E5%81%9A.py)  
 [HW1：分析報告](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/HW1%EF%BC%9A%E5%88%86%E6%9E%90112%E8%87%B3102%E5%B9%B410%E5%B9%B4%E4%B9%8B%E9%96%93%E7%9A%84%E4%BA%8C%E9%A1%9E%E7%B5%84%E7%86%B1%E9%96%80%E7%A7%91%E7%B3%BB%E5%89%8D%E5%8D%81%E5%90%8D.pdf)  
 
@@ -100,25 +81,13 @@ Matplotlib資料視覺化
 [HW4_LLM&Jieba關聯圖生成](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Homework/HW4.ipynb)  
 
 
-# 五、Markdown 語法說明
-Markdown 語法說明：https://markdown.tw/
-# 六、python 小專題  
+# 三、python 小專題  
 有時太忙沒有自主學習，就利用20-30分鐘的零星時間做些小專案，訓練手感  
   
 [1. 師大本部人的三餐選擇器 2024/03/16](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/folio/choose_food.py)  
 [2. 下載 YT MP4格式影片 2024/04/28](https://colab.research.google.com/drive/1ufR0NN8A3fwTDEYdncKc4PMP5wcVeUBW#scrollTo=EZMkT6MhBpJ) 
 
-# 七、python 7 日小專題訓練  
-感謝chatgpt協助設計題目 - 7日計畫：  
 
-
-[ Day01 實現一個計算器程序，接受用戶輸入兩個數字和一個操作符（例如+、-、*、/），並輸出計算結果。 2024/03/29](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/calculate.py)  
-[ Day02 實現一個程式，判斷給定的整數是否為質數 2024/03/30](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/prime.py)  
-[ Day03 編寫一個程式，輸入一個整數 n，輸出費波納契數列的前 n 項 2024/03/31](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/F.py)  
-[ Day04 編寫一個程式，輸入一個字符串，判斷它是不是迴文字符串](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/text.py)  
-[ Day05 將兩個列表合併為一個，並按升序](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/list.py)  
-[ Day06 編寫一個程式，計算給定列表中所有元素的平均值](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/average.py)  
-[ Day07 編寫一個程式，檢查一個字符串是否是另一個字符串的子串。](https://github.com/PeiHsiuLu/112-2-Programming-Language/blob/main/Daily-Practice/same-text.py)
 
 # 八、利用python下載youtube  
 為了個人需求，寫了代碼方便自己從yt下載影片  
